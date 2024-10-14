@@ -38,10 +38,10 @@
     To run this project, clone the repository and follow the instructions below:
   </p>
   <pre>
-    git clone https://github.com/your-username/ANPR-YOLOv8.git
+    git clone https://github.com/mashr9980/ANPR-YOLOv8.git
     cd ANPR-YOLOv8
     # Setup the environment and run the detection script
-    python detect.py --source path_to_images
+    python app.py --source path_to_images
   </pre>
 
   <h2>Contributions</h2>
