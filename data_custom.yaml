@@ -1,0 +1,7 @@
+train: C:\Users\muham\Downloads\object detection dice\train
+val: C:\Users\muham\Downloads\object detection dice\testing
+
+nc: 6
+
+
+names: ["1","2","3","4","5","6"]
